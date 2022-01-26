@@ -1,22 +1,64 @@
 {
   "tasks": [
     {
-      "id": "1",
+      "id": 1,
       "text": "Doctors Appointment",
-      "day": "March 5th at 2:30pm",
+      "time": 3233333,
       "reminder": true
     },
     {
-      "id": "3",
+      "id": 2,
       "text": "Food shopping",
-      "day": "March 7th at 2:00pm",
+      "time": 43433,
       "reminder": true
     },
     {
       "text": "test",
-      "day": "test",
+      "time": 33242,
       "reminder": false,
-      "id": "6MAhZax"
+      "id": 3
+    },
+    {
+      "text": "do 1",
+      "time": 11123,
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "do 2",
+      "time": 321312,
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "do 3 ",
+      "time": 223465,
+      "reminder": false,
+      "id": 6
+    },
+    {
+      "text": "do 4 ",
+      "time": 56564,
+      "reminder": false,
+      "id": 7
+    },
+    {
+      "text": "do 5 ",
+      "time": 83643,
+      "reminder": false,
+      "id": 8
+    },
+    {
+      "text": "do 6 ",
+      "time": 23412,
+      "reminder": false,
+      "id": 9
+    },
+    {
+      "text": "do 7 ",
+      "time": 34875,
+      "reminder": false,
+      "id": 10
     }
   ]
 }
